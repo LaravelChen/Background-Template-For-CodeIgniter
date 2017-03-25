@@ -13,9 +13,9 @@
 
 ## 效果图(部分)
 ### 后台首页
-![image](https://github.com/LaravelChen/Background-Template-For-CI/raw/master/public/images/adminimg.png)
+![image](https://github.com/LaravelChen/Background-Template-For-CodeIgniter/raw/master/public/images/adminimg.png)
 ### 撰写文章
-![image](https://github.com/LaravelChen/Background-Template-For-CI/raw/master/public/images/adminarticle.png)
+![image](https://github.com/LaravelChen/Background-Template-For-CodeIgniter/raw/master/public/images/adminarticle.png)
 
 ##   用法
 ### 1.clone到本地
@@ -27,4 +27,4 @@ git clone https://github.com/LaravelChen/Background-Template-For-CI.git
 #### 你的apache或者nginx所访问项目的路由一定要对应好本项目的控制器和方法
 
 
-> ####恭喜您，安装成功！请熟悉整个布局过程，然后在此基础上开发吧！别吝啬您的star哦!!
+> #### 恭喜您，安装成功！请熟悉整个布局过程，然后在此基础上开发吧！别吝啬您的star哦!!

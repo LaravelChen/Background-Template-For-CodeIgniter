@@ -20,7 +20,7 @@
 ##   用法
 ### 1.clone到本地
 ```
-git clone https://github.com/LaravelChen/Background-Template-For-CI.git
+git clone https://github.com/LaravelChen/Background-Template-For-CodeIgniter.git
 ```
 ### 2.在显示后台首页注意:
 

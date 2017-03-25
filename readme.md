@@ -15,7 +15,7 @@
 ### 后台首页
 ![image](https://github.com/LaravelChen/Background-Template-For-CodeIgniter/raw/master/resource/githubimg/admin.png)
 ### 撰写文章
-![image](https://github.com/LaravelChen/Background-Template-For-CodeIgniter/raw/master/public/githubimg/article.png)
+![image](https://github.com/LaravelChen/Background-Template-For-CodeIgniter/raw/master/resource/githubimg/article.png)
 
 ##   用法
 ### 1.clone到本地
